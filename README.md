@@ -1,4 +1,4 @@
-# focus-timer-2.0
+# focus-timer-2.0-js
 
 versao melhorada do focus timer.
 novas funcionalidades adicionadas
